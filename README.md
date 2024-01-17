@@ -1,5 +1,5 @@
 <p style="text-align: center">
-    <img alt="projeto-cordel" src="imagens/desk.png" width="100%">
+    <img alt="projeto-cordel" src="imagens/desk.png" width="40%">
 </p>
 
 ## 💻 Projeto Cordel
