@@ -4,7 +4,7 @@
 
 ## 💻 Projeto Cordel
 
-Construindo um *Cordel* com um poema de Milton Duarte
+Construindo um *Cordel* com uma poesia de Milton Duarte
 
 
 ## 🚀 Tecnologias
